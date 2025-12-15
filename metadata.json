@@ -1,0 +1,5 @@
+{
+  "name": "ShotSmith AI",
+  "description": "Deterministic cinematography tool powered by Agentic AI and structured JSON control. Converts creative intent into professional technical specifications.",
+  "requestFramePermissions": []
+}
