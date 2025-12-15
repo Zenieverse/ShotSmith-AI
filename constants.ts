@@ -23,6 +23,10 @@ export const DEFAULT_SHOT_PARAMS: ShotParameters = {
     subject_position: "center",
     negative_space: "none"
   },
+  format: {
+    aspect_ratio: "16:9",
+    resolution: "1K"
+  },
   description: "A neutral test shot."
 };
 
