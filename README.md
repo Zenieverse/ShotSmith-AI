@@ -10,7 +10,7 @@ View your app in AI Studio: https://ai.studio/apps/drive/1Zgr8o8D08AALbafiKZtFOn
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+Prerequisites: Node.js
 
 
 1. Install dependencies:
@@ -21,12 +21,15 @@ View your app in AI Studio: https://ai.studio/apps/drive/1Zgr8o8D08AALbafiKZtFOn
 `
 
 # ShotSmith AI  
-**Deterministic Cinematography with FIBO JSON-Native Generation**
+Deterministic Cinematography with FIBO JSON-Native Generation
 
-ShotSmith AI is a professional-grade visual generation tool built for the **Bria FIBO Hackathon**.  
-It demonstrates a fundamental shift from prompt-based image generation to **deterministic, JSON-controlled cinematography** using the **Bria FIBO foundation model**.
+ShotSmith AI is a professional-grade visual generation tool built for the **Bria FIBO Hackathon. 
+It demonstrates a fundamental shift from prompt-based image generation to deterministic, JSON-controlled cinematography using the **Bria FIBO foundation model.
 
-Instead of relying on fragile prompt engineering, ShotSmith AI treats image generation like a real production pipeline: cameras, lenses, lighting, color, and composition are **explicit, reproducible, and versionable**.
+Instead of relying on fragile prompt engineering, ShotSmith AI treats image generation like a real production pipeline: cameras, lenses, lighting, color, and composition are explicit, reproducible, and versionable.
+
+ShotSmith AI — When image generation becomes cinematography, not guesswork.
+
 
 ---
 
@@ -38,7 +41,7 @@ Traditional text-to-image systems:
 - Break continuity across shots
 - Are impossible to version or diff
 
-**ShotSmith AI solves this by making JSON the single source of truth.**
+ShotSmith AI solves this by making JSON the single source of truth.
 
 With the same JSON input, FIBO will always generate the same framing, lighting behavior, and color intent.
 
@@ -58,21 +61,21 @@ No hidden parameters. No prompt drift.
 ---
 
 ### Agentic Workflow
-ShotSmith AI uses multiple specialized agents that communicate **only via JSON**:
+ShotSmith AI uses multiple specialized agents that communicate **only via JSON:
 
-1. **Narrative Agent**  
+1. Narrative Agent**  
    Interprets emotional beats and scene intent
 
-2. **Cinematography Agent**  
+2. Cinematography Agent**  
    Determines shot type, lens choice, FOV, and camera angle
 
-3. **Lighting Agent**  
+4. Lighting Agent**  
    Builds physically plausible lighting setups
 
-4. **Color Agent**  
+5. Color Agent**  
    Selects HDR palettes and ACES-based color workflows
 
-5. **FIBO Render Agent**  
+6. FIBO Render Agent**  
    Validates JSON and triggers deterministic generation
 
 This architecture is scalable, debuggable, and production-ready.
