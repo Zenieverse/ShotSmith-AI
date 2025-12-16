@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1Zgr8o8D08AALbafiKZtFOn3nb45MMTcQ
+View your app in AI Studio: https://ai.studio/apps/drive/1Zgr8o8D08AALbafiKZtFOn3nb45MMTcQ or https://poe.com/ShotSmithAI https://youtu.be/5dZIA86hPm4?si=GQmYn_vNCIKLT0gY 
 
 ## Run Locally
 
