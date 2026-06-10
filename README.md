@@ -7,6 +7,7 @@
 This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/e9315a05-d4b7-4e37-8677-c76269eb7ac6
+or https://shotsmith-ai-764082783379.us-west1.run.app
 
 ## Run Locally
 
